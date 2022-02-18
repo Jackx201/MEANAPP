@@ -1,0 +1,33 @@
+#savebtn{
+    margin-top: 4%;
+    margin-left: 3%;
+}
+
+#resetbtn{
+    margin-top: 4%;
+}
+
+.input-group{
+    margin-top: 4%;
+    
+}
+
+input{
+    background-color: #1E434A;
+    color: bisque;
+}
+
+.btn{
+    margin: 3%;
+}
+
+#form-bittons{
+    text-align: center;
+    margin-top: 5%;
+}
+
+@media (max-width: 600px) {
+    .hidesm {
+      display: none;
+    }
+  }
