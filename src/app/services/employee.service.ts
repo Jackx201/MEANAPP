@@ -9,7 +9,7 @@ export class EmployeeService {
 
   constructor(private http: HttpClient) { }
 
-  URL_API = 'http://192.168.1.14:4000/api/employees';
+  URL_API = 'https://weaseltechnologies.ddns.net:4000/api/employees';
 
   selectedEmployee : Employee = {
     name: '',
